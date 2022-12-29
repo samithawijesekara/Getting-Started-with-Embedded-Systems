@@ -1,3 +1,10 @@
+## Components
+- LED-RED
+- CAPASITOR
+- CRYSTAL
+- PIC16F877A
+
+
 ## Circuit Diagram
 ![Circuit Diagram](Circuit.PNG)
 </br></br>
