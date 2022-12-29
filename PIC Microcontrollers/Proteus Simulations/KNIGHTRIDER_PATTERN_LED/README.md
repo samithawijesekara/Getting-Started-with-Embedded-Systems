@@ -1,5 +1,5 @@
 ## Circuit Diagram
-![Circuit Diagram](/Circuit.PNG)
+![Circuit Diagram](Circuit.PNG)
 </br></br>
 
 ## Codebase
