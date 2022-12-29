@@ -1,6 +1,6 @@
 # Getting Started with Embedded Systems
 
-!Getting Started with Embedded Systems](cover.jpg)
+![Getting Started with Embedded Systems](cover.jpg)
 </br></br>
 
 ## 01 - Arduino
