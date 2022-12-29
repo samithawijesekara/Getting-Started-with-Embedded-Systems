@@ -1,4 +1,4 @@
-# Getting started Embedded Systems
+# Getting Started with Embedded Systems
 
 ## 01 - Arduino
 - [sample project name](Arduino/Singleton%20Pattern)
