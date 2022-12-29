@@ -14,3 +14,5 @@
 - [Proteus Simulations - KNIGHTRIDER_PATTERN_LED](/PIC%20Microcontrollers/Proteus%20Simulations/KNIGHTRIDER_PATTERN_LED)
 - [Proteus Simulations - LM016L_LCD_DISPLAY](/PIC%20Microcontrollers/Proteus%20Simulations/LM016L_LCD_DISPLAY)
 - [Proteus Simulations - LM35_TEMPRATURE_SENSOR](/PIC%20Microcontrollers/Proteus%20Simulations/LM35_TEMPRATURE_SENSOR)
+- [Proteus Simulations - 7_SEGMENT_DISPLAY](/PIC%20Microcontrollers/Proteus%20Simulations/7_SEGMENT_DISPLAY)
+
