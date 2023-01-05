@@ -4,7 +4,7 @@
 </br></br>
 
 ## 01 - Arduino
-- [sample project name](Arduino/Singleton%20Pattern)
+- [Proteus Simulations - LED_BLINK](Arduino/Proteus%20Simulations/LED_BLINK)
 
 ## 02 - ESPRESSIF(ESP)
 - [sample project name](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern)
