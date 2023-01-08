@@ -5,6 +5,7 @@
 
 ## 01 - Arduino
 - [Proteus Simulations - LED_BLINK](Arduino/Proteus%20Simulations/LED_BLINK)
+- [Proteus Simulations - KNIGHTRIDER_PATTERN_LED](Arduino/Proteus%20Simulations/KNIGHTRIDER_PATTERN_LED)
 
 ## 02 - ESPRESSIF(ESP)
 - [sample project name](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern)
