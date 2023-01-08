@@ -69,6 +69,7 @@ void loop() {
 ```
 
 ## Steps to upload code into microcontroller
-1. Go to the <b>Sketch -> Export compiled binary</b> </br>
-2. And then get the <b>.hex</b> file and upload into the microcontroller
+1. Open this codebase from Arduino IDE.</br>
+2. Go to the <b>Sketch -> Export compiled binary</b>
+3. And then get the <b>.hex</b> file and upload into the microcontroller
 
